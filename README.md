@@ -15,8 +15,6 @@ This is a simple chat application that interacts with OpenAI's GPT-4 model using
 
 ## Requirements
 - Python 3.x
-- `openai` library (version 1.61.0)
-- `python-dotenv` library (version 1.0.1)
 
 ## Installation
 1. Clone the repository:
