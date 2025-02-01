@@ -21,11 +21,11 @@ This is a simple chat application that interacts with OpenAI's GPT-4 model using
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/onderpala/gptplus.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo-name
+   cd gptplus
    ```
 3. Install dependencies:
    ```sh
