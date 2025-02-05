@@ -1,4 +1,4 @@
-# Chat Application with OpenAI GPT-4
+# Unrestricted Chat Application with GPT
 
 This is a simple chat application that interacts with OpenAI's GPT-4 model using the `Chat` class from `ai.py`. The application encodes user input in Base64 and sends it to the OpenAI model for a response.
 
