@@ -44,7 +44,7 @@ class Chat:
         if messages:
             messages = initial_messages + messages
             for message in messages:
-                self.add_to_chat(message['role'], message['message'])
+                self.add_to_chat(message['role'], message['content'])
         else:
             self.messages = initial_messages
 
